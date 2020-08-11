@@ -4,8 +4,10 @@ This is resulted of collaborative affords of
 
 AG Kempken, Laboratory of Prof. Dr. Frank Kempken CAU Kiel, Germany
 https://www.uni-kiel.de/Botanik/Kempken/english.shtml
+
 and 
-AG Tasdemir - Prof. Dr. Deniz Tasdemir, Director of GEOMAR-Biotech: GEOMAR Centre for Marine Biotechnology, GEOMAR, Kiel
+
+AG Tasdemir - Laboratory of Prof. Dr. Deniz Tasdemir, Director of GEOMAR-Biotech: GEOMAR Centre for Marine Biotechnology, GEOMAR, Kiel
 https://www.geomar.de/en/staff/fb3/mn/tasdemir-deniz
 
 ---------------------------
