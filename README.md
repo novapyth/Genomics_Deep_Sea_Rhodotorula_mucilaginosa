@@ -2,7 +2,7 @@ Genomics resource of Deep-sea Sediment-derived Yeast, Rhodotorula mucilaginosa 5
 ------------------------------
 This is resulted of collaborative affords of 
 
-AG Kempken, Laboratory of Prof. Dr. Frank Kempken CAU Kiel, Germany
+AG Kempken, Laboratory of Prof. Dr. Frank Kempken, CAU Kiel, Germany
 https://www.uni-kiel.de/Botanik/Kempken/english.shtml
 
 and 
