@@ -32,6 +32,11 @@ Summary of Genome Statistics
 	N75 (Kb)		163.5		Length of the scaffold until which sum of lengths of scaffolds are reached to 75% of 20.01 Mb
 	L75			44		Number of scaffolds in the assembled genome that constitute N75
 	%GC			60.47		Percentage of total G+C content of assembled genome (20.01 Mb)
+	
+	
+	
+	-----------
+	repeat contents
 
 
 
