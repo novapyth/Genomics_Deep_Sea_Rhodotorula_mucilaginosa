@@ -19,10 +19,11 @@ https://www.kms.uni-kiel.de/de/about
 Developed and maintained by Dr. Abhishek Kumar
 ---------------------------------
 
-**Summary of Genome Statistics
+Summary of Genome Statistics
+--------------------------------
 
 			denovo Assembly		Definition
-	**Assembled Size (Mb)	20.02		Total denovo assembled size 
+	Assembled Size (Mb)	20.02		Total denovo assembled size 
 	Total scaffolds		265		Total number of scaffolds in assembled genome
 	N25 (Kb)		498.8		Length of the scaffold until which sum of lengths of scaffolds are reached to 25% of 20.01 Mb
 	L25			8		Number of scaffolds in the assembled genome that constitute N25
