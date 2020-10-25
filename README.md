@@ -6,7 +6,8 @@ This is resulted of collaborative affords of
 |AG/Group|	Laboratory Head|	Institute|Website|
 | ------------- |:-------------:| -----:|--------------------:|
 |AG Kempken  |Prof. Dr. Frank Kempken  | CAU Kiel, Germany |https://www.uni-kiel.de/Botanik/Kempken/english.shtml  |
-|AG Tasdemir  |Prof. Dr. Deniz Tasdemir | GEOMAR-Biotech: GEOMAR Centre for Marine Biotechnology, GEOMAR, Kiel |https://www.geomar.de/en/staff/fb3/mn/tasdemir-deniz |
+|AG Tasdemir  |Prof. Dr. Deniz Tasdemir | GEOMAR-Biotech
+GEOMAR Centre for Marine Biotechnology, GEOMAR, Kiel |https://www.geomar.de/en/staff/fb3/mn/tasdemir-deniz |
 
 ---------------------------
 |Funding: |
