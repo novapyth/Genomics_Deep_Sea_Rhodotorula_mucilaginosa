@@ -24,13 +24,13 @@ Summary of denovo  Genome Assembly Statistics
 |------------------|--------------:|----------------:|
 |Assembled Size (Mb)|	20.02	|	Total denovo assembled size |
 |Total scaffolds|	265	|	Total number of scaffolds in assembled genome|
-|N25 (Kb)	|	498.8	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 25% of 20.01 Mb|
+|N25 (Kb)	|	498.8	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 25% of 20.02 Mb|
 |L25		|	8	|	Number of scaffolds in the assembled genome that constitute N25|
-|N50 (Kb)	|	295.8	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 50% of 20.01 Mb|
+|N50 (Kb)	|	295.8	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 50% of 20.02 Mb|
 |L50		|	21	|	Number of scaffolds in the assembled genome that constitute N50|
-|N75 (Kb)	|	163.5	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 75% of 20.01 Mb|
+|N75 (Kb)	|	163.5	|	Length of the scaffold until which sum of lengths of scaffolds are reached to 75% of 20.02 Mb|
 |L75		|	44	|	Number of scaffolds in the assembled genome that constitute N75|
-|%GC		|	60.47	|	Percentage of total G+C content of assembled genome (20.01 Mb)|
+|%GC		|	60.47	|	Percentage of total G+C content of assembled genome (20.02 Mb)|
 --------
 	
 	
@@ -57,7 +57,12 @@ Summary of total repeat contents in the assembled genome of Rhodotorula mucilagi
 -------
 *most repeats fragmented by insertions or deletions have been counted as one element
 
-****Developed and maintained by Dr. Abhishek Kumar
+-----------
+ | Developed and maintained by|
+ |----------------------------|
+ | Dr. Abhishek Kumar|
+ ---------
+
 
 
 
