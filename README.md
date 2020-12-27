@@ -75,6 +75,7 @@ Summary of total repeat contents in the assembled genome of Rhodotorula mucilagi
  | Developed and maintained by|
  |----------------------------|
  | `Dr.Abhishek Kumar#`|
+ |-----|
  ---------
 
 
