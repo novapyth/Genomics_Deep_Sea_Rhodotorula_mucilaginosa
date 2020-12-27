@@ -18,6 +18,10 @@ https://www.kms.uni-kiel.de/de/about|
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Research article related to this work is now in Press for Marine Drug (MDPI journal)
+
+------------------------------------------------------------------------------------------------------------------------
+
 Summary of denovo  Genome Assembly Statistics
 --------------------------------
 
