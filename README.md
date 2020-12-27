@@ -1,4 +1,4 @@
-#Genomics resource of Deep-sea Sediment-derived Yeast, Rhodotorula mucilaginosa 50-3¬-19/20B
+# Genomics resource of Deep-sea Sediment-derived Yeast, Rhodotorula mucilaginosa 50-3¬-19/20B
 ------------------------------
 This is resulted of collaborative affords of 
 -----------
@@ -20,7 +20,7 @@ https://www.kms.uni-kiel.de/de/about|
 
 Research article related to this work is now in Press for Marine Drug (MDPI journal)
 
-## Genomics and Metabolomics Based Investigation of 2 the Deep-sea Sediment-derived Yeast, Rhodotorula 3 mucilaginosa 50-3-19/20B 4
+## Genomics and Metabolomics Based Investigation of the Deep-sea Sediment-derived Yeast, Rhodotorula 3 mucilaginosa 50-3-19/20B 4
 ------------------------
 
 `Larissa Buedenbender#`, `Abhishek Kumar#`, `Martina Blümel`, `Frank Kempken*` and `Deniz Tasdemir*`
