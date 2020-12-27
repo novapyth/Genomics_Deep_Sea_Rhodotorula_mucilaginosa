@@ -25,6 +25,7 @@ Genomics and Metabolomics Based Investigation of 2 the Deep-sea Sediment-derived
 Larissa Buedenbender#, Abhishek Kumar#, Martina Blümel, Frank Kempken,* and Deniz Tasdemir*
 
 -- #equal contribution
+
 -- *Corresponding authors
 
 ------------------------------------------------------------------------------------------------------------------------
