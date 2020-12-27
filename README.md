@@ -18,7 +18,7 @@ https://www.kms.uni-kiel.de/de/about|
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Research article related to this work is now in Press for Marine Drug (MDPI journal)
+Research article related to this work is now in Press for Marine Drug (MDPI)
 
 ## Genomics and Metabolomics Based Investigation of the Deep-sea Sediment-derived Yeast, Rhodotorula 3 mucilaginosa 50-3-19/20B 4
 ------------------------
