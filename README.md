@@ -22,7 +22,7 @@ Research article related to this work is now in Press for Marine Drug (MDPI jour
 
 Genomics and Metabolomics Based Investigation of 2 the Deep-sea Sediment-derived Yeast, Rhodotorula 3 mucilaginosa 50-3-19/20B 4
 -----------
-Larissa Buedenbender#, Abhishek Kumar#, Martina Blümel, Frank Kempken,* and Deniz Tasdemir*
+'Larissa Buedenbender'#, Abhishek Kumar#, Martina Blümel, Frank Kempken,* and Deniz Tasdemir*
 
 -- #equal contribution
 
